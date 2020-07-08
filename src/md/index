@@ -5,6 +5,8 @@ introduction.md
 steps/index.md
 steps/eslint.md
 steps/jsdoc.md
+steps/readme.md
 packaging/index.md
 packaging/test-automation.md
 packaging/package.json.md
+final-steps.md

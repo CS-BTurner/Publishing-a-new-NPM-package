@@ -50,6 +50,14 @@ If you write a package, **be proud**. Put your name here.
 { "author": "John Smith <john.smith@cloudsense.com>" }
 ```
 
+### Contributors
+
+If you're helping maintain a package, **be proud**. Put your name here.
+
+```json
+{ "contributors": ["John Smith <john.smith@cloudsense.com>"] }
+```
+
 ### Repository
 
 By having this field populated, NPM will show this when displaying the package's README file. As such it makes it significantly easier for users to identify what repository is being used. _Hopefully so they can contribute to it..._
