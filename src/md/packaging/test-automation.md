@@ -36,6 +36,4 @@ Now that we have automatic test suite execution and linting, we can now add the 
 }
 ```
 
-This `prepublishOnly` script - is only run before publishing a package by NPM itself. In other words, you dont need to invoke it.
-
-You can even test that this is the case by using the command `npm publish --dry-run`.
+This `prepublishOnly` script - is only run before publishing a package by NPM itself. In other words, you dont need to invoke it. You can even test that this is the case by using the command `npm publish --dry-run`.
