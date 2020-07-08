@@ -1,0 +1,1 @@
+This document is to outline the common steps for publishing a package to CloudSense's private NPM organisation. These steps aim to provide unanimity and consistency across **all** CloudSense packages.
